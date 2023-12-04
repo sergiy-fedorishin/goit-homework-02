@@ -1,5 +1,5 @@
 .body {
-    background: #F4F4FD;
+    background-color: #F4F4FD;
     font-family: "roboto", sans-serif;
 }
 
@@ -14,3 +14,48 @@
     color: #4D5AE5;
 }
 
+/* nav system */
+.header-list {
+    color: #2E2F42;
+}
+.header-list :hover {
+color: #404BBF;
+}
+/* contacts */
+    .contacts-link {
+    color: #434455;
+    }
+   .contacts-link:hover {
+    color: #404BBF;
+   }
+
+   /* hero */
+   .hero {
+    background-color: #2E2F42;
+   }
+
+.hero-name {
+    color: #FFFFFF;
+}
+
+   .button-hero {
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+   }
+   .button-hero:hover {
+background-color: #404BBF;
+   }
+
+   .order-name {
+    color: #2E2F42;
+   }
+.description-order {
+    color: #434455;
+}
+/* team */
+.team-list {
+   background-color: #F4F4FD;
+}
+.team-content {
+    color: #2E2F42;
+}
