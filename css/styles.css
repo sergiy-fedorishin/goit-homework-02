@@ -1,7 +1,7 @@
 body {
-    background-color: #F4F4FD;
-    color: #2E2F42;
     font-family: "roboto", sans-serif;
+    background-color: #FFFFFF;
+    color: #434455;
 }
 
 a {
@@ -17,7 +17,7 @@ ul{
 }
 
 .header-logo {
-    font-family: Raleway;
+    font-family: "Raleway", "sans-serif";
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
@@ -26,7 +26,7 @@ ul{
 }
 .accent {
 color:#4D5AE5;
-    font-family: Raleway;
+    font-family: "Raleway", "sans-serif";
     font-size: 18px;
     font-weight: 700;
     line-height: 1.16;
@@ -36,6 +36,7 @@ color:#4D5AE5;
 
 /* nav system */
 .header-list {
+    color: #2E2F42;
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -85,6 +86,7 @@ background-color: #404BBF;
    }
 
    .order-name {
+    color: #2E2F42;
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
@@ -132,7 +134,7 @@ color: #434455;
 
 .footer-logo {
     color: #F4F4FD;
-        font-family: Raleway;
+        font-family: "Raleway", "sans-serif";
         font-size: 18px;
         font-weight: 700;
         line-height: 1.17;
