@@ -1,5 +1,5 @@
 body {
-    font-family: "roboto", sans-serif;
+    font-family: "Roboto", sans-serif;
     background-color: #FFFFFF;
     color: #434455;
 }
@@ -37,7 +37,7 @@ color:#2E2F42;
 
 /* nav system */
 .header-list {
-    color: #2E2F42;
+    color: #2e2f42;
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.02em;
