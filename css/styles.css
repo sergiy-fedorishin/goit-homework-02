@@ -18,7 +18,7 @@ ul{
 
 .header-logo {
     color: #4d5ae5;
-    font-family: "Raleway", "sans-serif";
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
@@ -27,7 +27,6 @@ ul{
 }
 .accent-black {
 color:#2E2F42;
-    font-family: "Raleway", "sans-serif";
     font-size: 18px;
     font-weight: 700;
     line-height: 1.16;
@@ -45,7 +44,12 @@ color:#2E2F42;
 .header-list :hover,
 .header-list :focus {
 color: #404BBF;
+
 }
+.header-link {
+    color: #2e2f42;
+}
+
 /* contacts */
 .contacts {
     font-style: normal;
@@ -79,7 +83,7 @@ color: #404BBF;
     background-color: #4D5AE5;
     color: #FFFFFF;
         font-weight: 500;
-        font-family: "Roboto", "sans-serif";
+        font-family: "Roboto", sans-serif;
         line-height: 1.5;
         letter-spacing: 0.04em;
         cursor: pointer;
@@ -139,6 +143,7 @@ color: #2E2F42;
 
 .team-order {
 color: #434455;
+background-color: #FFFFFF
     text-align: center;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -150,7 +155,7 @@ color: #434455;
 
 .footer-logo {
     color:#4d5ae5;
-        font-family: "Raleway", "sans-serif";
+        font-family: "Raleway", sans-serif;
         font-size: 18px;
         font-weight: 700;
         line-height: 1.17;
@@ -168,3 +173,4 @@ color: #434455;
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
+
